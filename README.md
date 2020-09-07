@@ -1,2 +1,4 @@
 # debugprinter
-samll script to use when printer isn't responding
+Execute scipt when printer is not responding.
+
+Right click => Execute as administrator
